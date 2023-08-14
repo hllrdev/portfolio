@@ -1,5 +1,7 @@
 <template>
   <div>
-    <Navbar />
+    <Top/> 
+    <div class="h-screen bg-neutral">
+    </div>
   </div>
 </template>

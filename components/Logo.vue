@@ -1,3 +1,3 @@
 <template>
-    <a href="" class="font-bold text-center text-xl">daisyUI</a>
+    <a href="" class="font-bold text-center text-2xl">portfólio</a>
 </template>
