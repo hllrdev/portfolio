@@ -41,7 +41,7 @@
 </script>
 
 <template>
-  <div class="grid">
+  <div class="grid pb-2">
     <div id="carousel" ref="carousel" class="carousel w-full pb-2">
       <div
         v-for="(item, i) in technologies.length / 3"

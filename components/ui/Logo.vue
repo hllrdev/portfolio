@@ -1,9 +1,7 @@
 <template>
-    <a href="" class="font-bold text-center text-2xl">HS</a>
+    <div>
+        <NuxtLink to="/">
+            <Icon class="text-3xl" name="twemoji:chocolate-bar" />
+        </NuxtLink>
+    </div>
 </template>
-
-<style scoped>
-    a {
-        font-family: 'Oleo Script', cursive;
-    }
-</style>
