@@ -1,12 +1,12 @@
 <template>
     <div class="flex gap-4 text-2xl">
-        <NuxtLink to="#">
+        <NuxtLink to="https://www.linkedin.com/in/heuller-soares/">
             <Icon name="teenyicons:linkedin-solid"/>
         </NuxtLink>
-        <NuxtLink to="#">
+        <NuxtLink to="https://github.com/hllrdev">
             <Icon name="teenyicons:github-solid" />
         </NuxtLink>
-        <NuxtLink to="#">
+        <NuxtLink to="https://www.instagram.com/heullersuarez/">
             <Icon name="teenyicons:instagram-solid"/>
         </NuxtLink>
     </div>
