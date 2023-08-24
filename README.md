@@ -1,63 +1,12 @@
-# Nuxt 3 Minimal Starter
+# Meu portfólio 💻
+## Site com informações pessoais e profissionais 🔖
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+### Tecnologias utilizadas
+- Nuxt Framework
+- Vuejs
+- Tailwind CSS
+- Daisy UI
 
-## Setup
+<img height="600em" alt="Heuller-portfolio" src="https://lh3.googleusercontent.com/drive-viewer/AITFw-wQRcEzGHUjJ0aKFB9r2UWH82ap3Ns-7RGDEN7nlB0B58aJFCjOQGmSqG9Sw2ZlZaidxgmHGt5QYPk2mPUDCqjx3AjvNQ=s1600" />
 
-Make sure to install the dependencies:
 
-```bash
-# npm
-npm install
-
-# pnpm
-pnpm install
-
-# yarn
-yarn install
-```
-
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm run dev
-
-# yarn
-yarn dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm run build
-
-# yarn
-yarn build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm run preview
-
-# yarn
-yarn preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
