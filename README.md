@@ -1,5 +1,5 @@
 # Meu portfólio 💻
-## Site com informações pessoais e profissionais 🔖
+## Site com informações pessoais e profissionais
 
 ### Tecnologias utilizadas
 - Nuxt Framework
