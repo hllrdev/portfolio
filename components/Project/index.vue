@@ -15,9 +15,9 @@
           <img class="mockup-image w-full md:w-7/12" src="~/assets/images/mockups.png" alt="">
         </div>
         <div class="flex justify-center">
-            <button class="btn btn-secondary text-white" type="button">Ver sistema 
+            <NuxtLink to="https://www.zefu.com.br" class="btn btn-secondary text-white" type="button">Ver sistema 
                 <Icon class="text-xl text-white" name="teenyicons:arrow-right-circle-solid"/>
-            </button>
+            </NuxtLink>
         </div>
       </div>
     </div>
