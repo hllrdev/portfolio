@@ -15,7 +15,7 @@
           <img class="mockup-image w-full md:w-7/12" src="~/assets/images/mockups.png" alt="">
         </div>
         <div class="flex justify-center">
-            <NuxtLink to="https://client-zefu.onrender.com/" class="btn btn-secondary text-white" type="button">Ver sistema 
+            <NuxtLink to="https://github.com/hllrdev/zefu" class="btn btn-secondary text-white" type="button">Ver sistema 
                 <Icon class="text-xl text-white" name="teenyicons:arrow-right-circle-solid"/>
             </NuxtLink>
         </div>
